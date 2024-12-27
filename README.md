@@ -94,6 +94,13 @@ Avant d'exécuter cette application, assurez-vous d'avoir installé :
 
 - ## **partie Web:**
 
+![WhatsApp Image 2024-12-27 at 23 48 35](https://github.com/user-attachments/assets/57d6886d-fe08-41ff-b7b5-64b0c7d522ab)
+![WhatsApp Image 2024-12-27 at 23 49 09](https://github.com/user-attachments/assets/c6400c0b-9893-446e-bea4-b89043556353)
+![WhatsApp Image 2024-12-27 at 23 49 51](https://github.com/user-attachments/assets/2deda1e9-b2fc-4323-877b-87aa22ce6a11)
+![WhatsApp Image 2024-12-27 at 23 45 49](https://github.com/user-attachments/assets/ba8e7e2b-869b-4a6c-a07c-c32fbe2820cd)
+![WhatsApp Image 2024-12-27 at 23 46 32](https://github.com/user-attachments/assets/c0e2854d-3b45-4fe7-ba54-e1c59deaae6a)
+![WhatsApp Image 2024-12-27 at 23 47 27](https://github.com/user-attachments/assets/c8c03c42-faf2-4ced-b2f4-e9a2adb90628)
+
 ## Contributeurs
 - **Ayda aboufaress**
 - **Ayoub Hakmaoui** 
