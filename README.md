@@ -76,10 +76,12 @@ Avant d'exécuter cette application, assurez-vous d'avoir installé :
 - **POST /notifications** : Crée une nouvelle notification.
 
 ## Améliorations Futures
-- Ajout d'une interface utilisateur pour interagir avec l'application.
-- Notifications en temps réel avec des services de messagerie.
-- Intégration de cartes interactives pour la gestion des zones de sécurité.
-- Tableau de bord analytique pour suivre les anomalies.
+Intégration du Machine Learning :
+Détection des anomalies dans les mouvements des patients grâce à des modèles prédictifs.
+Analyse des tendances pour identifier des comportements inhabituels.
+Amélioration des prédictions de zones à risque en fonction des données historiques.
+Utilisation de frameworks comme TensorFlow et Scikit-learn pour entraîner et déployer des modèles.
+Gestion avancée des données : Collecte et stockage sécurisé des données liées aux patients pour des analyses futures.
 
 ## Captures d'Écran
 *Ajoutez ici des captures d'écran illustrant les principales fonctionnalités de l'application.*
