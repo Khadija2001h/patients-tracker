@@ -30,7 +30,7 @@ Avant d'exécuter cette application, assurez-vous d'avoir installé :
 - Java Development Kit (JDK) 11 ou supérieur.
 - Spring Boot Framework.
 - Maven (pour la gestion des dépendances).
-- Un système de base de données (par exemple, MySQL, PostgreSQL, ou H2 pour les tests).
+- Un système de base de données MySQL.
 
 ## Installation
 1. Clonez le dépôt :
@@ -62,27 +62,9 @@ Avant d'exécuter cette application, assurez-vous d'avoir installé :
      - Afficher toutes les notifications.
      - Générer automatiquement des notifications lorsque les patients quittent leurs zones de sécurité.
 
-## Structure des Fichiers
+## Architecture Microservice
 ```
-project_root/
-├── src/
-│   ├── main/
-│   │   ├── java/projetPatients/ma/controllers/
-│   │   │   ├── PatientController.java
-│   │   │   └── NotificationController.java
-│   │   ├── entities/
-│   │   │   ├── Patient.java
-│   │   │   └── Notification.java
-│   │   ├── services/
-│   │   │   ├── PatientService.java
-│   │   │   └── NotificationService.java
-│   │   └── repositories/
-│   │       ├── PatientRepository.java
-│   │       └── NotificationRepository.java
-├── resources/
-│   ├── application.properties
-│   ├── data.sql
-│   └── schema.sql
+
 ```
 
 ## Points de Terminaison API
