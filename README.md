@@ -84,12 +84,14 @@ Avant d'exécuter cette application, assurez-vous d'avoir installé :
 - Gestion avancée des données : Collecte et stockage sécurisé des données liées aux patients pour des analyses futures.
 
 ## Captures d'Écran
-**Partie mobile:**
+- **Partie mobile:**
 ![WhatsApp Image 2024-12-27 at 23 15 24](https://github.com/user-attachments/assets/f000b3be-2048-47e4-88fb-1948d814039c)
 ![WhatsApp Image 2024-12-27 at 23 15 25 (1)](https://github.com/user-attachments/assets/4eb830fa-bee3-47a4-b5c1-90d73eeef876)
 ![WhatsApp Image 2024-12-27 at 23 15 25 (2)](https://github.com/user-attachments/assets/c3c1ac21-988a-41ca-b48e-a6af1355801d)
 ![WhatsApp Image 2024-12-27 at 23 15 25 (3)](https://github.com/user-attachments/assets/94951fa8-3b67-4c72-8aa7-6f86ea6d575c)
 ![WhatsApp Image 2024-12-27 at 23 15 25](https://github.com/user-attachments/assets/323b16c0-aa01-4c91-be53-3dc1dc5afb64)
+
+- **partie Web:**
 
 ## Contributeurs
 - **Votre Nom** ([Votre GitHub](https://github.com/votre-profil))
