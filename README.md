@@ -64,7 +64,7 @@ Avant d'exécuter cette application, assurez-vous d'avoir installé :
 
 ## Architecture Microservice
 ```
-
+![WhatsApp Image 2024-12-27 at 22 29 46](https://github.com/user-attachments/assets/a97a607a-9466-4117-9adb-c5999a6f2036)
 ```
 
 ## Points de Terminaison API
