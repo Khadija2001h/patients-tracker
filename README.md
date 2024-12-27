@@ -76,7 +76,7 @@ Avant d'exécuter cette application, assurez-vous d'avoir installé :
 - **POST /notifications** : Crée une nouvelle notification.
 
 ## Améliorations Futures
-- **Intégration du Machine Learning :
+- **Intégration du Machine Learning :**
 - Détection des anomalies dans les mouvements des patients grâce à des modèles prédictifs.
 - Analyse des tendances pour identifier des comportements inhabituels.
 - Amélioration des prédictions de zones à risque en fonction des données historiques.
