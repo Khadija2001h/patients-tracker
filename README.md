@@ -53,7 +53,7 @@ Avant d'exécuter cette application, assurez-vous d'avoir installé :
    - `http://localhost:8080/patients`
    - `http://localhost:8080/notifications`
 2. Fonctionnalités disponibles :
-   - **Patients** :
+   - **Caregiver** :
      - Ajouter de nouveaux patients.
      - Mettre à jour les informations des patients (par exemple, coordonnées, détails personnels).
      - Vérifier si les patients se trouvent dans leurs zones de sécurité.
