@@ -101,6 +101,9 @@ Avant d'exécuter cette application, assurez-vous d'avoir installé :
 ![WhatsApp Image 2024-12-27 at 23 46 32](https://github.com/user-attachments/assets/c0e2854d-3b45-4fe7-ba54-e1c59deaae6a)
 ![WhatsApp Image 2024-12-27 at 23 47 27](https://github.com/user-attachments/assets/c8c03c42-faf2-4ced-b2f4-e9a2adb90628)
 
+## lien video mobile:
+https://drive.google.com/file/d/12Z9SHIYOhFAFDdi8g01JisZlI85RGGwG/view?usp=sharing
+
 ## Contributeurs
 - **Ayda aboufaress**
 - **Ayoub Hakmaoui** 
